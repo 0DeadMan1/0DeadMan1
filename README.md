@@ -1,4 +1,4 @@
-public string git = "DeadMan"
+public string git = "DeadMan.cs"
 
 - 👋 Hi, I’m @Deadman-code4;
 - 👀 I’m interested in Game developing;
